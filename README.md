@@ -19,6 +19,13 @@ How is the company performing across sales, products, customers, regions, and de
 - Excel Slicers
 
 ## Dashboard
+global-sales-performance-analysis/
+│
+├── images/
+│   ├── PR2-SALES OVERVIEW 1.png
+│   └── PR2-SALES OVERVIEW 2 (2).png
+│
+└── README.md
 
 ### Sales Performance Overview
 
