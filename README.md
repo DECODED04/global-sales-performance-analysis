@@ -24,8 +24,4 @@ How is the company performing across sales, products, customers, regions, and de
 
 
 
-
-
-### Product, Customer & Delivery Analysis
-
 ![Product Customer and Delivery Analysis](images/product-customer-delivery-analysis.png)
